@@ -6,13 +6,15 @@
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=taiseidayo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-%230175C2.svg?style=for-the-badge&logo=React&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/nodejs-%2335495e.svg?style=for-the-badge&logo=nodedotjs&logoColor=%234FC08D)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-07ab5e?style=for-the-badge&logo=mongodb&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jquery-521a00?style=for-the-badge&logo=jquery&logoColor=white)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=taiseidayo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
