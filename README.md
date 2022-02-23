@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://img.shields.io/badge/Blog-Qiita-red">](https://qiita.com/JNJDUNK)
-
 Hello
