@@ -12,7 +12,8 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDb-07ab5e?style=for-the-badge&logo=mongodb&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jquery-521a00?style=for-the-badge&logo=jquery&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=taiseidayo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taiseidayo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **v010maaa/v010maaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
